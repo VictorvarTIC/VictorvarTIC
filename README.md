@@ -8,37 +8,37 @@
 </a>
 
 ## Tools
-![Jira] (https://img.shields.io/badge/-Jira-#38383B 
+![Jira](https://img.shields.io/badge/-Jira-#38383B 
 ?style=for-the-badge&logo=Jira&logoColor=#235FB5)
-![Confluence] (https://img.shields.io/badge/-confluence-#38383B 
+![Confluence](https://img.shields.io/badge/-confluence-#38383B 
 ?style=for-the-badge&logo=confluence&logoColor=#235FB5)
-![JMeter] (https://img.shields.io/badge/-JMeter-#46464C 
+![JMeter](https://img.shields.io/badge/-JMeter-#46464C 
 ?style=for-the-badge&logo=JMeter&logoColor=#D0184C)
-![Selenium] (https://img.shields.io/badge/-Selenium-#8B8B8B 
+![Selenium](https://img.shields.io/badge/-Selenium-#8B8B8B 
 ?style=for-the-badge&logo=Selenium&logoColor=#1CD018)
-![Postman] (https://img.shields.io/badge/-Postman-#E17658 
+![Postman](https://img.shields.io/badge/-Postman-#E17658 
 ?style=for-the-badge&logo=Postman&logoColor=#D4D7E1)
-![Bitrix] (https://img.shields.io/badge/-Bitrix-#38383B 
+![Bitrix](https://img.shields.io/badge/-Bitrix-#38383B 
 ?style=for-the-badge&logo=Bitrix&logoColor=#235FB5)
-![SQL] (https://img.shields.io/badge/-SQL-#38383B 
+![SQL](https://img.shields.io/badge/-SQL-#38383B 
 ?style=for-the-badge&logo=SQL&logoColor=#235FB5)
 
 ## Skills
-![Agile] (https://img.shields.io/badge/-Agile-#38383B 
+![Agile](https://img.shields.io/badge/-Agile-#38383B 
 ?style=for-the-badge&logo=Agile&logoColor=#235FB5)
-![Scrum] (https://img.shields.io/badge/-Scrum-#38383B 
+![Scrum](https://img.shields.io/badge/-Scrum-#38383B 
 ?style=for-the-badge&logo=Scrum&logoColor=#235FB5)
-![Kanban] (https://img.shields.io/badge/-Kanban-#38383B 
+![Kanban](https://img.shields.io/badge/-Kanban-#38383B 
 ?style=for-the-badge&logo=Kanban&logoColor=#235FB5)
-![API-testing] (https://img.shields.io/badge/-API-testing-#38383B 
+![API-testing](https://img.shields.io/badge/-API-testing-#38383B 
 ?style=for-the-badge&logo=API-testing&logoColor=#235FB5)
 ![Functional-testing] (https://img.shields.io/badge/-Functional-testing-#38383B 
 ?style=for-the-badge&logo=Functional-testing&logoColor=#235FB5)
 ![NonFunctional-testing] (https://img.shields.io/badge/-NonFunctional-testing-#38383B 
 ?style=for-the-badge&logo=NonFunctional-testing&logoColor=#235FB5)
-![Test-design] (https://img.shields.io/badge/-Test-design-#38383B 
+![Test-design](https://img.shields.io/badge/-Test-design-#38383B 
 ?style=for-the-badge&logo=Test-design&logoColor=#235FB5)
-![MobileApp] (https://img.shields.io/badge/-MobileApp-#38383B 
+![MobileApp](https://img.shields.io/badge/-MobileApp-#38383B 
 ?style=for-the-badge&logo=MobileApp&logoColor=#235FB5)
 
 ## TEST DOCUMENTATION
