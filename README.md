@@ -50,6 +50,6 @@
 
 
 ## Follow Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-#38383B ?style=for-the-badge&logo=LinkedIn&logoColor=#235FB5)](https://www.linkedin.com/in/victor-vartic-73442222a/)
-[![Facebook](https://img.shields.io/badge/-Facebook-#0F153E ?style=for-the-badge&logo=Facebook&logoColor=#0F1574)](https://www.facebook.com/victor.vartik)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-#38383B?style=for-the-badge&logo=LinkedIn&logoColor=#235FB5)](https://www.linkedin.com/in/victor-vartic-73442222a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-#0F153E?style=for-the-badge&logo=Facebook&logoColor=#0F1574)](https://www.facebook.com/victor.vartik)
 
