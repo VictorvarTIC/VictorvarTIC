@@ -9,7 +9,7 @@
 
 ## Tools
           
-![Jira][(https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/Jira-090909.svg)](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/Jira-090909.svg)
+![Jira][(https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/Jira-090909.svg)
 ![Confluence](https://img.shields.io/badge/-confluence-#38383B?style=for-the-badge&logo=confluence&logoColor=#235FB5)
 ![JMeter](https://img.shields.io/badge/-JMeter-#46464C?style=for-the-badge&logo=JMeter&logoColor=#D0184C)
 ![Selenium](https://img.shields.io/badge/-Selenium-#8B8B8B?style=for-the-badge&logo=Selenium&logoColor=#1CD018)
