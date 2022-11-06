@@ -1,6 +1,6 @@
 ![Header]<img src="https://drive.google.com/file/d/1i0Lw0x5ir7aO1xNRwxqGqKavMBhYL3aL/view?usp=share_link" alt="The Unlimited" width="200"/>
 
-## About me: Applying my experience, skills, knowledge, tenacious nature, I always become reliable for the company, at the expense of quality work done.
+## Applying my experience, skills, knowledge, tenacious nature, I always become reliable for the company, at the expense of quality work done.
 
 ## My CV 
 <a href="https://docs.google.com/document/d/1-7yBY5STdRvKvRrnywJsMvaIgXqkD4LlSf6oDYQkPBQ/edit?usp=sharing" target="_blank">
