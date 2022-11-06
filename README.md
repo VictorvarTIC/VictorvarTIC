@@ -17,13 +17,15 @@
 ![Agile](https://img.shields.io/badge/-Agile-38383B?style=for-the-badge&logo=Agile&logoColor=235FB5)
 ![Scrum](https://img.shields.io/badge/-Scrum-38383B?style=for-the-badge&logo=Scrum&logoColor=235FB5)
 ![Kanban](https://img.shields.io/badge/-Kanban-38383B?style=for-the-badge&logo=Kanban&logoColor=235FB5)
-![API-testing](https://img.shields.io/badge/-APItesting-38383B?style=for-the-badge&logo=APItesting&logoColor=235FB5)
-![Functional-testing](https://img.shields.io/badge/-Functional-testing-38383B?style=for-the-badge&logo=Functional-testing&logoColor=235FB5)
-![NonFunctional-testing](https://img.shields.io/badge/-NonFunctional-testing-38383B?style=for-the-badge&logo=NonFunctional-testing&logoColor=235FB5)
-![Test-design](https://img.shields.io/badge/-Test-design-38383B?style=for-the-badge&logo=Test-design&logoColor=235FB5)
-![MobileApp](https://img.shields.io/badge/-MobileApp-38383B?style=for-the-badge&logo=MobileApp&logoColor=235FB5)
+![API testing](https://img.shields.io/badge/-APItesting-38383B?style=for-the-badge&logo=APItesting&logoColor=235FB5)
+![Functional testing](https://img.shields.io/badge/-Functionaltesting-38383B?style=for-the-badge&logo=Functionaltesting&logoColor=235FB5)
+![NonFunctional testing](https://img.shields.io/badge/-NonFunctionaltesting-38383B?style=for-the-badge&logo=NonFunctionaltesting&logoColor=235FB5)
+![Test design](https://img.shields.io/badge/-Testdesign-38383B?style=for-the-badge&logo=Testdesign&logoColor=235FB5)
+![Mobile App](https://img.shields.io/badge/-MobileApp-38383B?style=for-the-badge&logo=MobileApp&logoColor=235FB5)
 
 ## TEST DOCUMENTATION
+- [Check List](https://github.com/artichokeee/checklist](https://docs.google.com/spreadsheets/d/1yZ-WP_VzATcvE80mwIRE-dhCB6Iw9ANVGJwggT181To/edit?usp=share_link)
+- 
 ## Test Case <a href="https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit?usp=share_link" target="_blank">
 <img src="https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit?usp=share_link
 </a>
