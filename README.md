@@ -1,4 +1,4 @@
-[![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/header.jpg)]
+![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/header.jpg)
 
 ## Applying my experience, skills, knowledge, tenacious nature, I always become reliable for the company, at the expense of quality work done.
 
