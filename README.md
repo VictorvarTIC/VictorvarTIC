@@ -1,4 +1,4 @@
-![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/header.jpg)
+![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/img.webp)
 
 ## Applying my experience, skills, best practices and agile personal improvements, I always become part of great projects!
 
