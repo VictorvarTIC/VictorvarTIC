@@ -9,22 +9,22 @@
 
 ## Tools 
 ![Jira](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/Jira-090909.svg)
-![Confluence](https://img.shields.io/badge/-confluence-38383B?style=for-the-badge&logo=confluence&logoColor=235FB5)
-![JMeter](https://img.shields.io/badge/-JMeter-46464C?style=for-the-badge&logo=JMeter&logoColor=D0184C)
-![Selenium](https://img.shields.io/badge/-Selenium-8B8B8B?style=for-the-badge&logo=Selenium&logoColor=1CD018)
-![Postman](https://img.shields.io/badge/-Postman-E17658?style=for-the-badge&logo=Postman&logoColor=D4D7E1)
-![Bitrix](https://img.shields.io/badge/-Bitrix-38383B?style=for-the-badge&logo=Bitrix&logoColor=235FB5)
-![SQL](https://img.shields.io/badge/-SQL-38383B?style=for-the-badge&logo=SQL&logoColor=235FB5)
+![Confluence](https://img.shields.io/badge/-confluence-090909?style=for-the-badge&logo=confluence&logoColor=235FB5)
+![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D0184C)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=1CD018)
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix&logoColor=235FB5)
+![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 ## Skills
-![Agile](https://img.shields.io/badge/-Agile-38383B?style=for-the-badge&logo=Agile&logoColor=235FB5)
-![Scrum](https://img.shields.io/badge/-Scrum-38383B?style=for-the-badge&logo=Scrum&logoColor=235FB5)
-![Kanban](https://img.shields.io/badge/-Kanban-38383B?style=for-the-badge&logo=Kanban&logoColor=235FB5)
-![API testing](https://img.shields.io/badge/-APItesting-38383B?style=for-the-badge&logo=APItesting&logoColor=235FB5)
-![Functional testing](https://img.shields.io/badge/-Functionaltesting-38383B?style=for-the-badge&logo=Functionaltesting&logoColor=235FB5)
-![NonFunctional testing](https://img.shields.io/badge/-NonFunctionaltesting-38383B?style=for-the-badge&logo=NonFunctionaltesting&logoColor=235FB5)
-![Test design](https://img.shields.io/badge/-Testdesign-38383B?style=for-the-badge&logo=Testdesign&logoColor=235FB5)
-![Mobile App](https://img.shields.io/badge/-MobileApp-38383B?style=for-the-badge&logo=MobileApp&logoColor=235FB5)
+![Agile](https://img.shields.io/badge/-Agile-090909?style=for-the-badge&logo=Agile&logoColor=235FB5)
+![Scrum](https://img.shields.io/badge/-Scrum-090909?style=for-the-badge&logo=Scrum&logoColor=235FB5)
+![Kanban](https://img.shields.io/badge/-Kanban-090909?style=for-the-badge&logo=Kanban&logoColor=235FB5)
+![API testing](https://img.shields.io/badge/-APItesting-090909?style=for-the-badge&logo=APItesting&logoColor=235FB5)
+![Functional testing](https://img.shields.io/badge/-Functionaltesting-090909?style=for-the-badge&logo=Functionaltesting&logoColor=235FB5)
+![NonFunctional testing](https://img.shields.io/badge/-NonFunctionaltesting-090909?style=for-the-badge&logo=NonFunctionaltesting&logoColor=235FB5)
+![Test design](https://img.shields.io/badge/-Testdesign-090909?style=for-the-badge&logo=Testdesign&logoColor=235FB5)
+![Mobile App](https://img.shields.io/badge/-MobileApp-090909?style=for-the-badge&logo=MobileApp&logoColor=235FB5)
 
 ## TEST DOCUMENTATION
 - [Check List](https://docs.google.com/spreadsheets/d/1yZ-WP_VzATcvE80mwIRE-dhCB6Iw9ANVGJwggT181To/edit?usp=share_link)
@@ -35,6 +35,7 @@
 
 
 ## Follow Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-38383B?style=for-the-badge&logo=LinkedIn&logoColor=235FB5)](https://www.linkedin.com/in/victor-vartic-73442222a/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0F153E?style=for-the-badge&logo=Facebook&logoColor=0F1574)](https://www.facebook.com/victor.vartik)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/victor-vartic-73442222a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=0F1574)](https://www.facebook.com/victor.vartik)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/VictorVartic)
 
