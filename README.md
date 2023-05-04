@@ -1,9 +1,11 @@
 ![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/img.webp)
 
-## Applying my experience, skills, best practices and agile personal improvements, I always become part of great projects!
+## Results-oriented software testing and quality assurance engineer with experience in client-oriented international
+and private companies in financial insurance technology, internet marketplaces, i-food projects and in quality
+control of project implementation
 
 ## My CV
-- [CV Victor Vartic](https://docs.google.com/document/d/1-7yBY5STdRvKvRrnywJsMvaIgXqkD4LlSf6oDYQkPBQ/edit?usp=share_link)
+- [CV Victor Vartic](https://drive.google.com/file/d/1myd3JO8AwSH8BPuGVrk_vLmXFr_TRdlm/view?usp=drivesdk)
 - [Certificate Manual QA](https://drive.google.com/file/d/1_S4s25w0nTufAeUDAh5gIGXUPgQuUTT3/view?usp=share_link)
 - [Diploma](https://drive.google.com/file/d/1lRdF4KMsXJQg-_8S4Qh_IIi3FNjNdKql/view?usp=share_link)
 
@@ -27,10 +29,10 @@
 ![Mobile App](https://img.shields.io/badge/-MobileApp-090909?style=for-the-badge&logo=MobileApp&logoColor=235FB5)
 
 ## TEST DOCUMENTATION
+- [Test Scenario](https://docs.google.com/spreadsheets/d/1GW4QyduFCagGbJVqaGnhqc7Hp-r_Lfhfwz4mS3fmtkM/edit?usp=share_link)
 - [Check List](https://docs.google.com/spreadsheets/d/1yZ-WP_VzATcvE80mwIRE-dhCB6Iw9ANVGJwggT181To/edit?usp=share_link)
 - [Test Case](https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit?usp=share_link)
 - [Bug Report](https://docs.google.com/spreadsheets/d/1udw86qDn7U57NcIA0TckAva_hKaYOyq927CT8XIvE_w/edit?usp=share_link)
-- [Test Scenario](https://docs.google.com/spreadsheets/d/1GW4QyduFCagGbJVqaGnhqc7Hp-r_Lfhfwz4mS3fmtkM/edit?usp=share_link)
 - [Traceability Matrix](https://docs.google.com/spreadsheets/d/16gNA5sXXSDz3dmLG3lq-U2sn3IwgZGZvkCkI_aiyqDk/edit?usp=share_link)
 
 
