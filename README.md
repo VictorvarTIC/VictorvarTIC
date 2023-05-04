@@ -13,7 +13,7 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D0184C)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=1CD018)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix&logoColor=235FB5)
+![BackstopJs](https://img.shields.io/badge/-BackstopJs-090909?style=for-the-badge&logo=BackstopJs&logoColor=235FB5)
 ![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 ## Skills
