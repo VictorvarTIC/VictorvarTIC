@@ -9,12 +9,13 @@
 
 ## Tools 
 ![Jira](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/Jira-090909.svg)
-![Confluence](https://img.shields.io/badge/-confluence-090909?style=for-the-badge&logo=confluence&logoColor=235FB5)
-![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D0184C)
-![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=1CD018)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![BackstopJs](https://img.shields.io/badge/-BackstopJs-090909?style=for-the-badge&logo=BackstopJs&logoColor=235FB5)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=1CD018)
 ![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![BackstopJs](https://img.shields.io/badge/-BackstopJs-090909?style=for-the-badge&logo=BackstopJs&logoColor=235FB5)
+![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D0184C)
+![Testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=D0184C)
+![Confluence](https://img.shields.io/badge/-confluence-090909?style=for-the-badge&logo=confluence&logoColor=235FB5)
 
 ## Skills
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=for-the-badge&logo=Agile&logoColor=235FB5)
