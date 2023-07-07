@@ -15,6 +15,7 @@
 ![BackstopJs](https://img.shields.io/badge/-BackstopJs-090909?style=for-the-badge&logo=BackstopJs&logoColor=235FB5)
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D0184C)
 ![Testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=D0184C)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=D0184C)
 ![Confluence](https://img.shields.io/badge/-confluence-090909?style=for-the-badge&logo=confluence&logoColor=235FB5)
 
 ## Skills
@@ -35,7 +36,7 @@
 - [Traceability Matrix](https://docs.google.com/spreadsheets/d/16gNA5sXXSDz3dmLG3lq-U2sn3IwgZGZvkCkI_aiyqDk/edit?usp=share_link)
 
 
-## Follow Me
+## Contact Me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/victor-vartic-73442222a/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=0F1574)](https://www.facebook.com/victor.vartik)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/VictorVartic)
