@@ -1,6 +1,6 @@
 ![Header](https://github.com/VictorvarTIC/VictorvarTIC/blob/main/assets/img.webp)
 
-## Results-oriented software testing and quality assurance engineer with experience in client-oriented international and private companies in financial insurance technology, internet marketplaces, i-food projects and in quality control of project implementation
+## Results-oriented software testing and quality assurance engineer with experience in client-oriented international and private companies in financial insurance technology, e-commerce, internet marketplaces, i-food projects and in quality control and organization of project implementation
 
 ## My CV
 - [CV Victor Vartic](https://drive.google.com/file/d/1myd3JO8AwSH8BPuGVrk_vLmXFr_TRdlm/view?usp=drivesdk)
