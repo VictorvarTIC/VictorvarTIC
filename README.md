@@ -31,7 +31,7 @@
 ## TEST DOCUMENTATION
 - [Test Scenario]()
 - [Check List]()
-- [Test Cases. Porsche Test-Drive feature.](https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit#gid=0)
+- [Test Cases. Porsche Test-Drive feature.](https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit?usp=sharing)
 - [Bug Report]()
 - [Traceability Matrix]()
 
