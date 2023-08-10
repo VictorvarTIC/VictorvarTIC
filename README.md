@@ -32,7 +32,7 @@
 - [Test Scenario]()
 - [Check List]()
 - [Test Cases. Porsche Test-Drive feature.](https://docs.google.com/spreadsheets/d/1GCeh0ZTdcDl6EqrOeIO-cFyKn3780_fgS4W6l1So77s/edit?usp=sharing)
-- [Bug Report. Porsche Test-Drive feature.](https://drive.google.com/file/d/1zgIrYFzM-bqE6-Jrj4TD-nQf_zNCajOq/view?usp=sharing)
+- [Bug Reports. Porsche Test-Drive feature.](https://drive.google.com/file/d/1EOqJgf3T_aGYL5qaTv79AAwjsDQ118y-/view?usp=sharing)
 - [Bug Report. McDonald's UX.]()
 
 
