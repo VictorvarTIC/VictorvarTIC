@@ -3,7 +3,7 @@
 ## Results-oriented software testing and quality assurance engineer with experience in client-oriented international and private companies in financial insurance technology, e-commerce, internet marketplaces, i-food projects and in quality control and organization of project implementation
 
 ## My CV
-- [CV Victor Vartic](https://drive.google.com/file/d/1Cw0e155BBc8ZX3qlh4C_7z8GzqYt6pFM/view)
+- [CV Victor Vartic](https://rb.gy/hbpu8z)
 - [Certificate Manual QA](https://drive.google.com/file/d/1_S4s25w0nTufAeUDAh5gIGXUPgQuUTT3/view?usp=share_link)
 - [Diploma](https://drive.google.com/file/d/1lRdF4KMsXJQg-_8S4Qh_IIi3FNjNdKql/view?usp=share_link)
 
